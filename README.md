@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>I’m Mohamed Mahmoud,<br>a Front-End Developer who focuses on building responsive and modern web applications using HTML, CSS, JavaScript, and React.I enjoy turning ideas into clean and functional user interfaces.<br><br>Contact<br><br>You can reach me at m.mahmoud.alsaid.official@gmail.com<br>or connect with me on LinkedIn.
+About Me<br><br>I’m Mohamed Mahmoud,<br>a Front-End Developer who focuses on building responsive and modern web applications using HTML, CSS, JavaScript, and React. I enjoy turning ideas into clean and functional user interfaces.<br><br>Contact<br><br>You can reach me at m.mahmoud.alsaid.official@gmail.com<br>or connect with me on LinkedIn.
 
 
 ## 🌐 Socials:
